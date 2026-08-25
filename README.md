@@ -163,5 +163,5 @@ The best-performing methodology will then be used to generate predictions for th
 ## Author
 
 Shanila Rahman Khan  
-Data Science Capstone  
+Data Science Project 488  
 Winona State University
