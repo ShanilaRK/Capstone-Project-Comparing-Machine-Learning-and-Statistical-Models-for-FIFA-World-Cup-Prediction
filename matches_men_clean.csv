@@ -1,0 +1,359 @@
+date,tournament,year,round,team_a,team_b,score_a,score_b,ft_goals1,ft_goals2,penalty1,penalty2,result,group,ground,total_goals,goal_difference
+6/11/2010,World Cup,2010,Matchday 1,South Africa,Mexico,1,1,1,1,,,Draw,Group A,"Soccer City, Johannesburg",2,0
+6/11/2010,World Cup,2010,Matchday 1,Uruguay,France,0,0,0,0,,,Draw,Group A,"Cape Town Stadium, Cape Town",0,0
+6/16/2010,World Cup,2010,Matchday 6,South Africa,Uruguay,0,3,0,3,,,Team B Win,Group A,"Loftus Versfeld Stadium, Pretoria",3,-3
+6/17/2010,World Cup,2010,Matchday 7,France,Mexico,0,2,0,2,,,Team B Win,Group A,"Peter Mokaba Stadium, Polokwane",2,-2
+6/22/2010,World Cup,2010,Matchday 12,Mexico,Uruguay,0,1,0,1,,,Team B Win,Group A,"Royal Bafokeng Stadium, Rustenburg",1,-1
+6/22/2010,World Cup,2010,Matchday 12,France,South Africa,1,2,1,2,,,Team B Win,Group A,"Free State Stadium, Bloemfontein",3,-1
+6/12/2010,World Cup,2010,Matchday 2,South Korea,Greece,2,0,2,0,,,Team A Win,Group B,"Nelson Mandela Bay Stadium, Port Elizabeth",2,2
+6/12/2010,World Cup,2010,Matchday 2,Argentina,Nigeria,1,0,1,0,,,Team A Win,Group B,"Ellis Park Stadium, Johannesburg",1,1
+6/17/2010,World Cup,2010,Matchday 7,Argentina,South Korea,4,1,4,1,,,Team A Win,Group B,"Soccer City, Johannesburg",5,3
+6/17/2010,World Cup,2010,Matchday 7,Greece,Nigeria,2,1,2,1,,,Team A Win,Group B,"Free State Stadium, Bloemfontein",3,1
+6/22/2010,World Cup,2010,Matchday 12,Nigeria,South Korea,2,2,2,2,,,Draw,Group B,"Moses Mabhida Stadium, Durban",4,0
+6/22/2010,World Cup,2010,Matchday 12,Greece,Argentina,0,2,0,2,,,Team B Win,Group B,"Peter Mokaba Stadium, Polokwane",2,-2
+6/12/2010,World Cup,2010,Matchday 2,England,USA,1,1,1,1,,,Draw,Group C,"Royal Bafokeng Stadium, Rustenburg",2,0
+6/13/2010,World Cup,2010,Matchday 3,Algeria,Slovenia,0,1,0,1,,,Team B Win,Group C,"Peter Mokaba Stadium, Polokwane",1,-1
+6/18/2010,World Cup,2010,Matchday 8,Slovenia,USA,2,2,2,2,,,Draw,Group C,"Ellis Park Stadium, Johannesburg",4,0
+6/18/2010,World Cup,2010,Matchday 8,England,Algeria,0,0,0,0,,,Draw,Group C,"Cape Town Stadium, Cape Town",0,0
+6/23/2010,World Cup,2010,Matchday 13,USA,Algeria,1,0,1,0,,,Team A Win,Group C,"Loftus Versfeld Stadium, Pretoria",1,1
+6/23/2010,World Cup,2010,Matchday 13,Slovenia,England,0,1,0,1,,,Team B Win,Group C,"Nelson Mandela Bay Stadium, Port Elizabeth",1,-1
+6/13/2010,World Cup,2010,Matchday 3,Serbia,Ghana,0,1,0,1,,,Team B Win,Group D,"Loftus Versfeld Stadium, Pretoria",1,-1
+6/13/2010,World Cup,2010,Matchday 3,Germany,Australia,4,0,4,0,,,Team A Win,Group D,"Moses Mabhida Stadium, Durban",4,4
+6/18/2010,World Cup,2010,Matchday 8,Germany,Serbia,0,1,0,1,,,Team B Win,Group D,"Nelson Mandela Bay Stadium, Port Elizabeth",1,-1
+6/19/2010,World Cup,2010,Matchday 9,Ghana,Australia,1,1,1,1,,,Draw,Group D,"Royal Bafokeng Stadium, Rustenburg",2,0
+6/23/2010,World Cup,2010,Matchday 13,Australia,Serbia,2,1,2,1,,,Team A Win,Group D,"Mbombela Stadium, Nelspruit",3,1
+6/23/2010,World Cup,2010,Matchday 13,Ghana,Germany,0,1,0,1,,,Team B Win,Group D,"Soccer City, Johannesburg",1,-1
+6/14/2010,World Cup,2010,Matchday 4,Netherlands,Denmark,2,0,2,0,,,Team A Win,Group E,"Soccer City, Johannesburg",2,2
+6/14/2010,World Cup,2010,Matchday 4,Japan,Cameroon,1,0,1,0,,,Team A Win,Group E,"Free State Stadium, Bloemfontein",1,1
+6/19/2010,World Cup,2010,Matchday 9,Netherlands,Japan,1,0,1,0,,,Team A Win,Group E,"Moses Mabhida Stadium, Durban",1,1
+6/19/2010,World Cup,2010,Matchday 9,Cameroon,Denmark,1,2,1,2,,,Team B Win,Group E,"Loftus Versfeld Stadium, Pretoria",3,-1
+6/24/2010,World Cup,2010,Matchday 14,Denmark,Japan,1,3,1,3,,,Team B Win,Group E,"Royal Bafokeng Stadium, Rustenburg",4,-2
+6/24/2010,World Cup,2010,Matchday 14,Cameroon,Netherlands,1,2,1,2,,,Team B Win,Group E,"Cape Town Stadium, Cape Town",3,-1
+6/14/2010,World Cup,2010,Matchday 4,Italy,Paraguay,1,1,1,1,,,Draw,Group F,"Cape Town Stadium, Cape Town",2,0
+6/15/2010,World Cup,2010,Matchday 5,New Zealand,Slovakia,1,1,1,1,,,Draw,Group F,"Royal Bafokeng Stadium, Rustenburg",2,0
+6/20/2010,World Cup,2010,Matchday 10,Slovakia,Paraguay,0,2,0,2,,,Team B Win,Group F,"Free State Stadium, Bloemfontein",2,-2
+6/20/2010,World Cup,2010,Matchday 10,Italy,New Zealand,1,1,1,1,,,Draw,Group F,"Mbombela Stadium, Nelspruit",2,0
+6/24/2010,World Cup,2010,Matchday 14,Slovakia,Italy,3,2,3,2,,,Team A Win,Group F,"Ellis Park Stadium, Johannesburg",5,1
+6/24/2010,World Cup,2010,Matchday 14,Paraguay,New Zealand,0,0,0,0,,,Draw,Group F,"Peter Mokaba Stadium, Polokwane",0,0
+6/15/2010,World Cup,2010,Matchday 5,Côte d'Ivoire,Portugal,0,0,0,0,,,Draw,Group G,"Nelson Mandela Bay Stadium, Port Elizabeth",0,0
+6/15/2010,World Cup,2010,Matchday 5,Brazil,North Korea,2,1,2,1,,,Team A Win,Group G,"Ellis Park Stadium, Johannesburg",3,1
+6/20/2010,World Cup,2010,Matchday 10,Brazil,Côte d'Ivoire,3,1,3,1,,,Team A Win,Group G,"Soccer City, Johannesburg",4,2
+6/21/2010,World Cup,2010,Matchday 11,Portugal,North Korea,7,0,7,0,,,Team A Win,Group G,"Cape Town Stadium, Cape Town",7,7
+6/25/2010,World Cup,2010,Matchday 15,Portugal,Brazil,0,0,0,0,,,Draw,Group G,"Moses Mabhida Stadium, Durban",0,0
+6/25/2010,World Cup,2010,Matchday 15,North Korea,Côte d'Ivoire,0,3,0,3,,,Team B Win,Group G,"Mbombela Stadium, Nelspruit",3,-3
+6/16/2010,World Cup,2010,Matchday 6,Honduras,Chile,0,1,0,1,,,Team B Win,Group H,"Mbombela Stadium, Nelspruit",1,-1
+6/16/2010,World Cup,2010,Matchday 6,Spain,Switzerland,0,1,0,1,,,Team B Win,Group H,"Moses Mabhida Stadium, Durban",1,-1
+6/21/2010,World Cup,2010,Matchday 11,Chile,Switzerland,1,0,1,0,,,Team A Win,Group H,"Nelson Mandela Bay Stadium, Port Elizabeth",1,1
+6/21/2010,World Cup,2010,Matchday 11,Spain,Honduras,2,0,2,0,,,Team A Win,Group H,"Ellis Park Stadium, Johannesburg",2,2
+6/25/2010,World Cup,2010,Matchday 15,Chile,Spain,1,2,1,2,,,Team B Win,Group H,"Loftus Versfeld Stadium, Pretoria",3,-1
+6/25/2010,World Cup,2010,Matchday 15,Switzerland,Honduras,0,0,0,0,,,Draw,Group H,"Free State Stadium, Bloemfontein",0,0
+6/26/2010,World Cup,2010,Round of 16,Uruguay,South Korea,2,1,2,1,,,Team A Win,,"Nelson Mandela Bay Stadium, Port Elizabeth",3,1
+6/26/2010,World Cup,2010,Round of 16,USA,Ghana,1,2,1,1,,,Team B Win,,"Royal Bafokeng Stadium, Rustenburg",3,-1
+6/27/2010,World Cup,2010,Round of 16,Germany,England,4,1,4,1,,,Team A Win,,"Free State Stadium, Bloemfontein",5,3
+6/27/2010,World Cup,2010,Round of 16,Argentina,Mexico,3,1,3,1,,,Team A Win,,"Soccer City, Johannesburg",4,2
+6/28/2010,World Cup,2010,Round of 16,Netherlands,Slovakia,2,1,2,1,,,Team A Win,,"Moses Mabhida Stadium, Durban",3,1
+6/28/2010,World Cup,2010,Round of 16,Brazil,Chile,3,0,3,0,,,Team A Win,,"Ellis Park Stadium, Johannesburg",3,3
+6/29/2010,World Cup,2010,Round of 16,Paraguay,Japan,0,0,0,0,5,3,Draw,,"Loftus Versfeld Stadium, Pretoria",0,0
+6/29/2010,World Cup,2010,Round of 16,Spain,Portugal,1,0,1,0,,,Team A Win,,"Cape Town Stadium, Cape Town",1,1
+7/2/2010,World Cup,2010,Quarterfinals,Netherlands,Brazil,2,1,2,1,,,Team A Win,,"Nelson Mandela Bay Stadium, Port Elizabeth",3,1
+7/2/2010,World Cup,2010,Quarterfinals,Uruguay,Ghana,1,1,1,1,4,2,Draw,,"Soccer City, Johannesburg",2,0
+7/3/2010,World Cup,2010,Quarterfinals,Argentina,Germany,0,4,0,4,,,Team B Win,,"Cape Town Stadium, Cape Town",4,-4
+7/3/2010,World Cup,2010,Quarterfinals,Paraguay,Spain,0,1,0,1,,,Team B Win,,"Ellis Park Stadium, Johannesburg",1,-1
+7/6/2010,World Cup,2010,Semifinals,Uruguay,Netherlands,2,3,2,3,,,Team B Win,,"Cape Town Stadium, Cape Town",5,-1
+7/7/2010,World Cup,2010,Semifinals,Germany,Spain,0,1,0,1,,,Team B Win,,"Moses Mabhida Stadium, Durban",1,-1
+7/10/2010,World Cup,2010,Third-place play-off,Uruguay,Germany,2,3,2,3,,,Team B Win,,"Nelson Mandela Bay Stadium, Port Elizabeth",5,-1
+7/11/2010,World Cup,2010,Final,Netherlands,Spain,0,1,0,0,,,Team B Win,,"Soccer City, Johannesburg",1,-1
+6/12/2014,World Cup,2014,Matchday 1,Brazil,Croatia,3,1,3,1,,,Team A Win,Group A,"Arena de São Paulo, São Paulo",4,2
+6/13/2014,World Cup,2014,Matchday 2,Mexico,Cameroon,1,0,1,0,,,Team A Win,Group A,"Estádio das Dunas, Natal",1,1
+6/17/2014,World Cup,2014,Matchday 6,Brazil,Mexico,0,0,0,0,,,Draw,Group A,"Estádio Castelão, Fortaleza",0,0
+6/18/2014,World Cup,2014,Matchday 7,Cameroon,Croatia,0,4,0,4,,,Team B Win,Group A,"Arena Amazônia, Manaus",4,-4
+6/23/2014,World Cup,2014,Matchday 12,Cameroon,Brazil,1,4,1,4,,,Team B Win,Group A,"Estádio Nacional Mané Garrincha, Brasília",5,-3
+6/23/2014,World Cup,2014,Matchday 12,Croatia,Mexico,1,3,1,3,,,Team B Win,Group A,"Arena Pernambuco, Recife",4,-2
+6/13/2014,World Cup,2014,Matchday 2,Spain,Netherlands,1,5,1,5,,,Team B Win,Group B,"Arena Fonte Nova, Salvador",6,-4
+6/13/2014,World Cup,2014,Matchday 2,Chile,Australia,3,1,3,1,,,Team A Win,Group B,"Arena Pantanal, Cuiabá",4,2
+6/18/2014,World Cup,2014,Matchday 7,Australia,Netherlands,2,3,2,3,,,Team B Win,Group B,"Estádio Beira-Rio, Porto Alegre",5,-1
+6/18/2014,World Cup,2014,Matchday 7,Spain,Chile,0,2,0,2,,,Team B Win,Group B,"Estádio do Maracanã, Rio de Janeiro",2,-2
+6/23/2014,World Cup,2014,Matchday 12,Australia,Spain,0,3,0,3,,,Team B Win,Group B,"Arena da Baixada, Curitiba",3,-3
+6/23/2014,World Cup,2014,Matchday 12,Netherlands,Chile,2,0,2,0,,,Team A Win,Group B,"Arena de São Paulo, São Paulo",2,2
+6/14/2014,World Cup,2014,Matchday 3,Colombia,Greece,3,0,3,0,,,Team A Win,Group C,"Estádio Mineirão, Belo Horizonte",3,3
+6/14/2014,World Cup,2014,Matchday 3,Côte d'Ivoire,Japan,2,1,2,1,,,Team A Win,Group C,"Arena Pernambuco, Recife",3,1
+6/19/2014,World Cup,2014,Matchday 8,Colombia,Côte d'Ivoire,2,1,2,1,,,Team A Win,Group C,"Estádio Nacional Mané Garrincha, Brasília",3,1
+6/19/2014,World Cup,2014,Matchday 8,Japan,Greece,0,0,0,0,,,Draw,Group C,"Estádio das Dunas, Natal",0,0
+6/24/2014,World Cup,2014,Matchday 13,Japan,Colombia,1,4,1,4,,,Team B Win,Group C,"Arena Pantanal, Cuiabá",5,-3
+6/24/2014,World Cup,2014,Matchday 13,Greece,Côte d'Ivoire,2,1,2,1,,,Team A Win,Group C,"Estádio Castelão, Fortaleza",3,1
+6/14/2014,World Cup,2014,Matchday 3,Uruguay,Costa Rica,1,3,1,3,,,Team B Win,Group D,"Estádio Castelão, Fortaleza",4,-2
+6/14/2014,World Cup,2014,Matchday 3,England,Italy,1,2,1,2,,,Team B Win,Group D,"Arena Amazônia, Manaus",3,-1
+6/19/2014,World Cup,2014,Matchday 8,Uruguay,England,2,1,2,1,,,Team A Win,Group D,"Arena de São Paulo, São Paulo",3,1
+6/20/2014,World Cup,2014,Matchday 9,Italy,Costa Rica,0,1,0,1,,,Team B Win,Group D,"Arena Pernambuco, Recife",1,-1
+6/24/2014,World Cup,2014,Matchday 13,Italy,Uruguay,0,1,0,1,,,Team B Win,Group D,"Estádio das Dunas, Natal",1,-1
+6/24/2014,World Cup,2014,Matchday 13,Costa Rica,England,0,0,0,0,,,Draw,Group D,"Estádio Mineirão, Belo Horizonte",0,0
+6/15/2014,World Cup,2014,Matchday 4,Switzerland,Ecuador,2,1,2,1,,,Team A Win,Group E,"Estádio Nacional Mané Garrincha, Brasília",3,1
+6/15/2014,World Cup,2014,Matchday 4,France,Honduras,3,0,3,0,,,Team A Win,Group E,"Estádio Beira-Rio, Porto Alegre",3,3
+6/20/2014,World Cup,2014,Matchday 9,Switzerland,France,2,5,2,5,,,Team B Win,Group E,"Arena Fonte Nova, Salvador",7,-3
+6/20/2014,World Cup,2014,Matchday 9,Honduras,Ecuador,1,2,1,2,,,Team B Win,Group E,"Arena da Baixada, Curitiba",3,-1
+6/25/2014,World Cup,2014,Matchday 14,Honduras,Switzerland,0,3,0,3,,,Team B Win,Group E,"Arena Amazônia, Manaus",3,-3
+6/25/2014,World Cup,2014,Matchday 14,Ecuador,France,0,0,0,0,,,Draw,Group E,"Estádio do Maracanã, Rio de Janeiro",0,0
+6/15/2014,World Cup,2014,Matchday 4,Argentina,Bosnia-Herzegovina,2,1,2,1,,,Team A Win,Group F,"Estádio do Maracanã, Rio de Janeiro",3,1
+6/16/2014,World Cup,2014,Matchday 5,Iran,Nigeria,0,0,0,0,,,Draw,Group F,"Arena da Baixada, Curitiba",0,0
+6/21/2014,World Cup,2014,Matchday 10,Argentina,Iran,1,0,1,0,,,Team A Win,Group F,"Estádio Mineirão, Belo Horizonte",1,1
+6/21/2014,World Cup,2014,Matchday 10,Nigeria,Bosnia-Herzegovina,1,0,1,0,,,Team A Win,Group F,"Arena Pantanal, Cuiabá",1,1
+6/25/2014,World Cup,2014,Matchday 14,Nigeria,Argentina,2,3,2,3,,,Team B Win,Group F,"Estádio Beira-Rio, Porto Alegre",5,-1
+6/25/2014,World Cup,2014,Matchday 14,Bosnia-Herzegovina,Iran,3,1,3,1,,,Team A Win,Group F,"Arena Fonte Nova, Salvador",4,2
+6/16/2014,World Cup,2014,Matchday 5,Germany,Portugal,4,0,4,0,,,Team A Win,Group G,"Arena Fonte Nova, Salvador",4,4
+6/16/2014,World Cup,2014,Matchday 5,Ghana,USA,1,2,1,2,,,Team B Win,Group G,"Estádio das Dunas, Natal",3,-1
+6/21/2014,World Cup,2014,Matchday 10,Germany,Ghana,2,2,2,2,,,Draw,Group G,"Estádio Castelão, Fortaleza",4,0
+6/22/2014,World Cup,2014,Matchday 11,USA,Portugal,2,2,2,2,,,Draw,Group G,"Arena Amazônia, Manaus",4,0
+6/26/2014,World Cup,2014,Matchday 15,USA,Germany,0,1,0,1,,,Team B Win,Group G,"Arena Pernambuco, Recife",1,-1
+6/26/2014,World Cup,2014,Matchday 15,Portugal,Ghana,2,1,2,1,,,Team A Win,Group G,"Estádio Nacional Mané Garrincha, Brasília",3,1
+6/17/2014,World Cup,2014,Matchday 6,Belgium,Algeria,2,1,2,1,,,Team A Win,Group H,"Estádio Mineirão, Belo Horizonte",3,1
+6/17/2014,World Cup,2014,Matchday 6,Russia,South Korea,1,1,1,1,,,Draw,Group H,"Arena Pantanal, Cuiabá",2,0
+6/22/2014,World Cup,2014,Matchday 11,Belgium,Russia,1,0,1,0,,,Team A Win,Group H,"Estádio do Maracanã, Rio de Janeiro",1,1
+6/22/2014,World Cup,2014,Matchday 11,South Korea,Algeria,2,4,2,4,,,Team B Win,Group H,"Estádio Beira-Rio, Porto Alegre",6,-2
+6/26/2014,World Cup,2014,Matchday 15,South Korea,Belgium,0,1,0,1,,,Team B Win,Group H,"Arena de São Paulo, São Paulo",1,-1
+6/26/2014,World Cup,2014,Matchday 15,Algeria,Russia,1,1,1,1,,,Draw,Group H,"Arena da Baixada, Curitiba",2,0
+6/28/2014,World Cup,2014,Round of 16,Brazil,Chile,1,1,1,1,3,2,Draw,,"Estádio Mineirão, Belo Horizonte",2,0
+6/28/2014,World Cup,2014,Round of 16,Colombia,Uruguay,2,0,2,0,,,Team A Win,,"Estádio do Maracanã, Rio de Janeiro",2,2
+6/29/2014,World Cup,2014,Round of 16,Netherlands,Mexico,2,1,2,1,,,Team A Win,,"Estádio Castelão, Fortaleza",3,1
+6/29/2014,World Cup,2014,Round of 16,Costa Rica,Greece,1,1,1,1,5,3,Draw,,"Arena Pernambuco, Recife",2,0
+6/30/2014,World Cup,2014,Round of 16,France,Nigeria,2,0,2,0,,,Team A Win,,"Estádio Nacional Mané Garrincha, Brasília",2,2
+6/30/2014,World Cup,2014,Round of 16,Germany,Algeria,2,1,0,0,,,Team A Win,,"Estádio Beira-Rio, Porto Alegre",3,1
+7/1/2014,World Cup,2014,Round of 16,Argentina,Switzerland,1,0,0,0,,,Team A Win,,"Arena de São Paulo, São Paulo",1,1
+7/1/2014,World Cup,2014,Round of 16,Belgium,USA,2,1,0,0,,,Team A Win,,"Arena Fonte Nova, Salvador",3,1
+7/4/2014,World Cup,2014,Quarter-finals,France,Germany,0,1,0,1,,,Team B Win,,"Estádio do Maracanã, Rio de Janeiro",1,-1
+7/4/2014,World Cup,2014,Quarter-finals,Brazil,Colombia,2,1,2,1,,,Team A Win,,"Estádio Castelão, Fortaleza",3,1
+7/5/2014,World Cup,2014,Quarter-finals,Argentina,Belgium,1,0,1,0,,,Team A Win,,"Estádio Nacional Mané Garrincha, Brasília",1,1
+7/5/2014,World Cup,2014,Quarter-finals,Netherlands,Costa Rica,0,0,0,0,4,3,Draw,,"Arena Fonte Nova, Salvador",0,0
+7/8/2014,World Cup,2014,Semi-finals,Brazil,Germany,1,7,1,7,,,Team B Win,,"Estádio Mineirão, Belo Horizonte",8,-6
+7/9/2014,World Cup,2014,Semi-finals,Netherlands,Argentina,0,0,0,0,2,4,Draw,,"Arena de São Paulo, São Paulo",0,0
+7/12/2014,World Cup,2014,Match for third place,Brazil,Netherlands,0,3,0,3,,,Team B Win,,"Estádio Nacional Mané Garrincha, Brasília",3,-3
+7/13/2014,World Cup,2014,Final,Germany,Argentina,1,0,0,0,,,Team A Win,,"Estádio do Maracanã, Rio de Janeiro",1,1
+6/14/2018,World Cup,2018,Matchday 1,Russia,Saudi Arabia,5,0,5,0,,,Team A Win,Group A,"Luzhniki Stadium, Moscow",5,5
+6/15/2018,World Cup,2018,Matchday 2,Egypt,Uruguay,0,1,0,1,,,Team B Win,Group A,"Ekaterinburg Arena, Ekaterinburg",1,-1
+6/19/2018,World Cup,2018,Matchday 6,Russia,Egypt,3,1,3,1,,,Team A Win,Group A,"Saint Petersburg Stadium, Saint Petersburg",4,2
+6/20/2018,World Cup,2018,Matchday 7,Uruguay,Saudi Arabia,1,0,1,0,,,Team A Win,Group A,"Rostov Arena, Rostov-on-Don",1,1
+6/25/2018,World Cup,2018,Matchday 12,Uruguay,Russia,3,0,3,0,,,Team A Win,Group A,"Samara Arena, Samara",3,3
+6/25/2018,World Cup,2018,Matchday 12,Saudi Arabia,Egypt,2,1,2,1,,,Team A Win,Group A,"Volgograd Arena, Volgograd",3,1
+6/15/2018,World Cup,2018,Matchday 2,Morocco,Iran,0,1,0,1,,,Team B Win,Group B,"Saint Petersburg Stadium, Saint Petersburg",1,-1
+6/15/2018,World Cup,2018,Matchday 2,Portugal,Spain,3,3,3,3,,,Draw,Group B,"Fisht Stadium, Sochi",6,0
+6/20/2018,World Cup,2018,Matchday 7,Portugal,Morocco,1,0,1,0,,,Team A Win,Group B,"Luzhniki Stadium, Moscow",1,1
+6/20/2018,World Cup,2018,Matchday 7,Iran,Spain,0,1,0,1,,,Team B Win,Group B,"Kazan Arena, Kazan",1,-1
+6/25/2018,World Cup,2018,Matchday 12,Iran,Portugal,1,1,1,1,,,Draw,Group B,"Mordovia Arena, Saransk",2,0
+6/25/2018,World Cup,2018,Matchday 12,Spain,Morocco,2,2,2,2,,,Draw,Group B,"Kaliningrad Stadium, Kaliningrad",4,0
+6/16/2018,World Cup,2018,Matchday 3,France,Australia,2,1,2,1,,,Team A Win,Group C,"Kazan Arena, Kazan",3,1
+6/16/2018,World Cup,2018,Matchday 3,Peru,Denmark,0,1,0,1,,,Team B Win,Group C,"Mordovia Arena, Saransk",1,-1
+6/21/2018,World Cup,2018,Matchday 8,Denmark,Australia,1,1,1,1,,,Draw,Group C,"Samara Arena, Samara",2,0
+6/21/2018,World Cup,2018,Matchday 8,France,Peru,1,0,1,0,,,Team A Win,Group C,"Ekaterinburg Arena, Ekaterinburg",1,1
+6/26/2018,World Cup,2018,Matchday 13,Denmark,France,0,0,0,0,,,Draw,Group C,"Luzhniki Stadium, Moscow",0,0
+6/26/2018,World Cup,2018,Matchday 13,Australia,Peru,0,2,0,2,,,Team B Win,Group C,"Fisht Stadium, Sochi",2,-2
+6/16/2018,World Cup,2018,Matchday 3,Argentina,Iceland,1,1,1,1,,,Draw,Group D,"Spartak Stadium, Moscow",2,0
+6/16/2018,World Cup,2018,Matchday 3,Croatia,Nigeria,2,0,2,0,,,Team A Win,Group D,"Kaliningrad Stadium, Kaliningrad",2,2
+6/21/2018,World Cup,2018,Matchday 8,Argentina,Croatia,0,3,0,3,,,Team B Win,Group D,"Nizhny Novgorod Stadium, Nizhny Novgorod",3,-3
+6/22/2018,World Cup,2018,Matchday 9,Nigeria,Iceland,2,0,2,0,,,Team A Win,Group D,"Volgograd Arena, Volgograd",2,2
+6/26/2018,World Cup,2018,Matchday 13,Nigeria,Argentina,1,2,1,2,,,Team B Win,Group D,"Saint Petersburg Stadium, Saint Petersburg",3,-1
+6/26/2018,World Cup,2018,Matchday 13,Iceland,Croatia,1,2,1,2,,,Team B Win,Group D,"Rostov Arena, Rostov-on-Don",3,-1
+6/17/2018,World Cup,2018,Matchday 4,Costa Rica,Serbia,0,1,0,1,,,Team B Win,Group E,"Samara Arena, Samara",1,-1
+6/17/2018,World Cup,2018,Matchday 4,Brazil,Switzerland,1,1,1,1,,,Draw,Group E,"Rostov Arena, Rostov-on-Don",2,0
+6/22/2018,World Cup,2018,Matchday 9,Brazil,Costa Rica,2,0,2,0,,,Team A Win,Group E,"Saint Petersburg Stadium, Saint Petersburg",2,2
+6/22/2018,World Cup,2018,Matchday 9,Serbia,Switzerland,1,2,1,2,,,Team B Win,Group E,"Kaliningrad Stadium, Kaliningrad",3,-1
+6/27/2018,World Cup,2018,Matchday 14,Serbia,Brazil,0,2,0,2,,,Team B Win,Group E,"Spartak Stadium, Moscow",2,-2
+6/27/2018,World Cup,2018,Matchday 14,Switzerland,Costa Rica,2,2,2,2,,,Draw,Group E,"Nizhny Novgorod Stadium, Nizhny Novgorod",4,0
+6/17/2018,World Cup,2018,Matchday 4,Germany,Mexico,0,1,0,1,,,Team B Win,Group F,"Luzhniki Stadium, Moscow",1,-1
+6/18/2018,World Cup,2018,Matchday 5,Sweden,South Korea,1,0,1,0,,,Team A Win,Group F,"Nizhny Novgorod Stadium, Nizhny Novgorod",1,1
+6/23/2018,World Cup,2018,Matchday 10,South Korea,Mexico,1,2,1,2,,,Team B Win,Group F,"Rostov Arena, Rostov-on-Don",3,-1
+6/23/2018,World Cup,2018,Matchday 10,Germany,Sweden,2,1,2,1,,,Team A Win,Group F,"Fisht Stadium, Sochi",3,1
+6/27/2018,World Cup,2018,Matchday 14,South Korea,Germany,2,0,2,0,,,Team A Win,Group F,"Kazan Arena, Kazan",2,2
+6/27/2018,World Cup,2018,Matchday 14,Mexico,Sweden,0,3,0,3,,,Team B Win,Group F,"Ekaterinburg Arena, Ekaterinburg",3,-3
+6/18/2018,World Cup,2018,Matchday 5,Belgium,Panama,3,0,3,0,,,Team A Win,Group G,"Fisht Stadium, Sochi",3,3
+6/18/2018,World Cup,2018,Matchday 5,Tunisia,England,1,2,1,2,,,Team B Win,Group G,"Volgograd Arena, Volgograd",3,-1
+6/23/2018,World Cup,2018,Matchday 10,Belgium,Tunisia,5,2,5,2,,,Team A Win,Group G,"Spartak Stadium, Moscow",7,3
+6/24/2018,World Cup,2018,Matchday 11,England,Panama,6,1,6,1,,,Team A Win,Group G,"Nizhny Novgorod Stadium, Nizhny Novgorod",7,5
+6/28/2018,World Cup,2018,Matchday 15,England,Belgium,0,1,0,1,,,Team B Win,Group G,"Kaliningrad Stadium, Kaliningrad",1,-1
+6/28/2018,World Cup,2018,Matchday 15,Panama,Tunisia,1,2,1,2,,,Team B Win,Group G,"Mordovia Arena, Saransk",3,-1
+6/19/2018,World Cup,2018,Matchday 6,Colombia,Japan,1,2,1,2,,,Team B Win,Group H,"Mordovia Arena, Saransk",3,-1
+6/19/2018,World Cup,2018,Matchday 6,Poland,Senegal,1,2,1,2,,,Team B Win,Group H,"Spartak Stadium, Moscow",3,-1
+6/24/2018,World Cup,2018,Matchday 11,Japan,Senegal,2,2,2,2,,,Draw,Group H,"Ekaterinburg Arena, Ekaterinburg",4,0
+6/24/2018,World Cup,2018,Matchday 11,Poland,Colombia,0,3,0,3,,,Team B Win,Group H,"Kazan Arena, Kazan",3,-3
+6/28/2018,World Cup,2018,Matchday 15,Japan,Poland,0,1,0,1,,,Team B Win,Group H,"Volgograd Arena, Volgograd",1,-1
+6/28/2018,World Cup,2018,Matchday 15,Senegal,Colombia,0,1,0,1,,,Team B Win,Group H,"Samara Arena, Samara",1,-1
+6/30/2018,World Cup,2018,Round of 16,France,Argentina,4,3,4,3,,,Team A Win,,"Kazan Arena, Kazan",7,1
+6/30/2018,World Cup,2018,Round of 16,Uruguay,Portugal,2,1,2,1,,,Team A Win,,"Fisht Stadium, Sochi",3,1
+7/1/2018,World Cup,2018,Round of 16,Spain,Russia,1,1,1,1,3,4,Draw,,"Luzhniki Stadium, Moscow",2,0
+7/1/2018,World Cup,2018,Round of 16,Croatia,Denmark,1,1,1,1,3,2,Draw,,"Nizhny Novgorod Stadium, Nizhny Novgorod",2,0
+7/2/2018,World Cup,2018,Round of 16,Brazil,Mexico,2,0,2,0,,,Team A Win,,"Samara Arena, Samara",2,2
+7/2/2018,World Cup,2018,Round of 16,Belgium,Japan,3,2,3,2,,,Team A Win,,"Rostov Arena, Rostov-on-Don",5,1
+7/3/2018,World Cup,2018,Round of 16,Sweden,Switzerland,1,0,1,0,,,Team A Win,,"Saint Petersburg Stadium, Saint Petersburg",1,1
+7/3/2018,World Cup,2018,Round of 16,Colombia,England,1,1,1,1,3,4,Draw,,"Spartak Stadium, Moscow",2,0
+7/6/2018,World Cup,2018,Quarter-finals,Uruguay,France,0,2,0,2,,,Team B Win,,"Nizhny Novgorod Stadium, Nizhny Novgorod",2,-2
+7/6/2018,World Cup,2018,Quarter-finals,Brazil,Belgium,1,2,1,2,,,Team B Win,,"Kazan Arena, Kazan",3,-1
+7/7/2018,World Cup,2018,Quarter-finals,Sweden,England,0,2,0,2,,,Team B Win,,"Samara Arena, Samara",2,-2
+7/7/2018,World Cup,2018,Quarter-finals,Russia,Croatia,2,2,1,1,3,4,Draw,,"Fisht Stadium, Sochi",4,0
+7/10/2018,World Cup,2018,Semi-finals,France,Belgium,1,0,1,0,,,Team A Win,,"Saint Petersburg Stadium, St. Petersburg",1,1
+7/11/2018,World Cup,2018,Semi-finals,Croatia,England,2,1,1,1,,,Team A Win,,"Luzhniki Stadium, Moscow",3,1
+7/14/2018,World Cup,2018,Match for third place,Belgium,England,2,0,2,0,,,Team A Win,,"Saint Petersburg Stadium, St. Petersburg",2,2
+7/15/2018,World Cup,2018,Final,France,Croatia,4,2,4,2,,,Team A Win,,"Luzhniki Stadium, Moscow",6,2
+11/20/2022,World Cup,2022,Matchday 1,Qatar,Ecuador,0,2,0,2,,,Team B Win,Group A,"Al Bayt Stadium, Al Khor",2,-2
+11/21/2022,World Cup,2022,Matchday 2,Senegal,Netherlands,0,2,0,2,,,Team B Win,Group A,"Al Thumama Stadium, Doha",2,-2
+11/25/2022,World Cup,2022,Matchday 6,Qatar,Senegal,1,3,1,3,,,Team B Win,Group A,"Al Thumama Stadium, Doha",4,-2
+11/25/2022,World Cup,2022,Matchday 6,Netherlands,Ecuador,1,1,1,1,,,Draw,Group A,"Khalifa International Stadium, Al Rayyan",2,0
+11/29/2022,World Cup,2022,Matchday 10,Ecuador,Senegal,1,2,1,2,,,Team B Win,Group A,"Khalifa International Stadium, Al Rayyan",3,-1
+11/29/2022,World Cup,2022,Matchday 10,Netherlands,Qatar,2,0,2,0,,,Team A Win,Group A,"Al Bayt Stadium, Al Khor",2,2
+11/21/2022,World Cup,2022,Matchday 2,England,Iran,6,2,6,2,,,Team A Win,Group B,"Khalifa International Stadium, Al Rayyan",8,4
+11/21/2022,World Cup,2022,Matchday 2,USA,Wales,1,1,1,1,,,Draw,Group B,"Ahmad bin Ali Stadium, Al Rayyan",2,0
+11/25/2022,World Cup,2022,Matchday 6,Wales,Iran,0,2,0,2,,,Team B Win,Group B,"Ahmad bin Ali Stadium, Al Rayyan",2,-2
+11/25/2022,World Cup,2022,Matchday 6,England,USA,0,0,0,0,,,Draw,Group B,"Al Bayt Stadium, Al Khor",0,0
+11/29/2022,World Cup,2022,Matchday 10,Wales,England,0,3,0,3,,,Team B Win,Group B,"Ahmad bin Ali Stadium, Al Rayyan",3,-3
+11/29/2022,World Cup,2022,Matchday 10,Iran,USA,0,1,0,1,,,Team B Win,Group B,"Al Thumama Stadium, Doha",1,-1
+11/22/2022,World Cup,2022,Matchday 3,Argentina,Saudi Arabia,1,2,1,2,,,Team B Win,Group C,"Lusail Iconic Stadium, Lusail",3,-1
+11/22/2022,World Cup,2022,Matchday 3,Mexico,Poland,0,0,0,0,,,Draw,Group C,"Stadium 974, Doha",0,0
+11/26/2022,World Cup,2022,Matchday 7,Poland,Saudi Arabia,2,0,2,0,,,Team A Win,Group C,"Education City Stadium, Al Rayyan",2,2
+11/26/2022,World Cup,2022,Matchday 7,Argentina,Mexico,2,0,2,0,,,Team A Win,Group C,"Lusail Iconic Stadium, Lusail",2,2
+11/30/2022,World Cup,2022,Matchday 11,Poland,Argentina,0,2,0,2,,,Team B Win,Group C,"Stadium 974, Doha",2,-2
+11/30/2022,World Cup,2022,Matchday 11,Saudi Arabia,Mexico,1,2,1,2,,,Team B Win,Group C,"Lusail Iconic Stadium, Lusail",3,-1
+11/22/2022,World Cup,2022,Matchday 3,Denmark,Tunisia,0,0,0,0,,,Draw,Group D,"Education City Stadium, Al Rayyan",0,0
+11/22/2022,World Cup,2022,Matchday 3,France,Australia,4,1,4,1,,,Team A Win,Group D,"Al Janoub Stadium, Al Wakrah",5,3
+11/26/2022,World Cup,2022,Matchday 7,Tunisia,Australia,0,1,0,1,,,Team B Win,Group D,"Al Janoub Stadium, Al Wakrah",1,-1
+11/26/2022,World Cup,2022,Matchday 7,France,Denmark,2,1,2,1,,,Team A Win,Group D,"Stadium 974, Doha",3,1
+11/30/2022,World Cup,2022,Matchday 11,Australia,Denmark,1,0,1,0,,,Team A Win,Group D,"Al Janoub Stadium, Al Wakrah",1,1
+11/30/2022,World Cup,2022,Matchday 11,Tunisia,France,1,0,1,0,,,Team A Win,Group D,"Education City Stadium, Al Rayyan",1,1
+11/23/2022,World Cup,2022,Matchday 4,Germany,Japan,1,2,1,2,,,Team B Win,Group E,"Khalifa International Stadium, Al Rayyan",3,-1
+11/23/2022,World Cup,2022,Matchday 4,Spain,Costa Rica,7,0,7,0,,,Team A Win,Group E,"Al Thumama Stadium, Doha",7,7
+11/27/2022,World Cup,2022,Matchday 8,Japan,Costa Rica,0,1,0,1,,,Team B Win,Group E,"Ahmad bin Ali Stadium, Al Rayyan",1,-1
+11/27/2022,World Cup,2022,Matchday 8,Spain,Germany,1,1,1,1,,,Draw,Group E,"Al Bayt Stadium, Al Khor",2,0
+12/1/2022,World Cup,2022,Matchday 12,Japan,Spain,2,1,2,1,,,Team A Win,Group E,"Khalifa International Stadium, Al Rayyan",3,1
+12/1/2022,World Cup,2022,Matchday 12,Costa Rica,Germany,2,4,2,4,,,Team B Win,Group E,"Al Bayt Stadium, Al Khor",6,-2
+11/23/2022,World Cup,2022,Matchday 4,Morocco,Croatia,0,0,0,0,,,Draw,Group F,"Al Bayt Stadium, Al Khor",0,0
+11/23/2022,World Cup,2022,Matchday 4,Belgium,Canada,1,0,1,0,,,Team A Win,Group F,"Ahmad bin Ali Stadium, Al Rayyan",1,1
+11/27/2022,World Cup,2022,Matchday 8,Belgium,Morocco,0,2,0,2,,,Team B Win,Group F,"Al Thumama Stadium, Doha",2,-2
+11/27/2022,World Cup,2022,Matchday 8,Croatia,Canada,4,1,4,1,,,Team A Win,Group F,"Khalifa International Stadium, Al Rayyan",5,3
+12/1/2022,World Cup,2022,Matchday 12,Croatia,Belgium,0,0,0,0,,,Draw,Group F,"Ahmad bin Ali Stadium, Al Rayyan",0,0
+12/1/2022,World Cup,2022,Matchday 12,Canada,Morocco,1,2,1,2,,,Team B Win,Group F,"Al Thumama Stadium, Doha",3,-1
+11/24/2022,World Cup,2022,Matchday 5,Switzerland,Cameroon,1,0,1,0,,,Team A Win,Group G,"Al Janoub Stadium, Al Wakrah",1,1
+11/24/2022,World Cup,2022,Matchday 5,Brazil,Serbia,2,0,2,0,,,Team A Win,Group G,"Lusail Iconic Stadium, Lusail",2,2
+11/28/2022,World Cup,2022,Matchday 9,Cameroon,Serbia,3,3,3,3,,,Draw,Group G,"Al Janoub Stadium, Al Wakrah",6,0
+11/28/2022,World Cup,2022,Matchday 9,Brazil,Switzerland,1,0,1,0,,,Team A Win,Group G,"Stadium 974, Doha",1,1
+12/2/2022,World Cup,2022,Matchday 13,Serbia,Switzerland,2,3,2,3,,,Team B Win,Group G,"Stadium 974, Doha",5,-1
+12/2/2022,World Cup,2022,Matchday 13,Cameroon,Brazil,1,0,1,0,,,Team A Win,Group G,"Lusail Iconic Stadium, Lusail",1,1
+11/24/2022,World Cup,2022,Matchday 5,Uruguay,South Korea,0,0,0,0,,,Draw,Group H,"Education City Stadium, Al Rayyan",0,0
+11/24/2022,World Cup,2022,Matchday 5,Portugal,Ghana,3,2,3,2,,,Team A Win,Group H,"Stadium 974, Doha",5,1
+11/28/2022,World Cup,2022,Matchday 9,South Korea,Ghana,2,3,2,3,,,Team B Win,Group H,"Education City Stadium, Al Rayyan",5,-1
+11/28/2022,World Cup,2022,Matchday 9,Portugal,Uruguay,2,0,2,0,,,Team A Win,Group H,"Lusail Iconic Stadium, Lusail",2,2
+12/2/2022,World Cup,2022,Matchday 13,Ghana,Uruguay,0,2,0,2,,,Team B Win,Group H,"Al Janoub Stadium, Al Wakrah",2,-2
+12/2/2022,World Cup,2022,Matchday 13,South Korea,Portugal,2,1,2,1,,,Team A Win,Group H,"Lusail Iconic Stadium, Lusail",3,1
+12/3/2022,World Cup,2022,Round of 16,Netherlands,USA,3,1,3,1,,,Team A Win,,"Khalifa International Stadium, Al Rayyan",4,2
+12/3/2022,World Cup,2022,Round of 16,Argentina,Australia,2,1,2,1,,,Team A Win,,"Ahmad bin Ali Stadium, Al Rayyan",3,1
+12/4/2022,World Cup,2022,Round of 16,France,Poland,3,1,3,1,,,Team A Win,,"Al Thumama Stadium, Doha",4,2
+12/4/2022,World Cup,2022,Round of 16,England,Senegal,3,0,3,0,,,Team A Win,,"Al Bayt Stadium, Al Khor",3,3
+12/5/2022,World Cup,2022,Round of 16,Japan,Croatia,1,1,1,1,1,3,Draw,,"Al Janoub Stadium, Al Wakrah",2,0
+12/5/2022,World Cup,2022,Round of 16,Brazil,South Korea,4,1,4,1,,,Team A Win,,"Stadium 974, Doha",5,3
+12/6/2022,World Cup,2022,Round of 16,Morocco,Spain,0,0,0,0,3,0,Draw,,"Education City Stadium, Al Rayyan",0,0
+12/6/2022,World Cup,2022,Round of 16,Portugal,Switzerland,6,1,6,1,,,Team A Win,,"Lusail Iconic Stadium, Lusail",7,5
+12/9/2022,World Cup,2022,Quarter-finals,Croatia,Brazil,1,1,0,0,4,2,Draw,,"Education City Stadium, Al Rayyan",2,0
+12/9/2022,World Cup,2022,Quarter-finals,Netherlands,Argentina,2,2,2,2,3,4,Draw,,"Lusail Iconic Stadium, Lusail",4,0
+12/10/2022,World Cup,2022,Quarter-finals,Morocco,Portugal,1,0,1,0,,,Team A Win,,"Al Thumama Stadium, Doha",1,1
+12/10/2022,World Cup,2022,Quarter-finals,England,France,1,2,1,2,,,Team B Win,,"Al Bayt Stadium, Al Khor",3,-1
+12/13/2022,World Cup,2022,Semi-finals,Argentina,Croatia,3,0,3,0,,,Team A Win,,"Lusail Iconic Stadium, Lusail",3,3
+12/14/2022,World Cup,2022,Semi-finals,France,Morocco,2,0,2,0,,,Team A Win,,"Al Bayt Stadium, Al Khor",2,2
+12/17/2022,World Cup,2022,Match for third place,Croatia,Morocco,2,1,2,1,,,Team A Win,,"Khalifa International Stadium, Al Rayyan",3,1
+12/18/2022,World Cup,2022,Final,Argentina,France,3,3,2,2,4,2,Draw,,"Lusail Iconic Stadium, Lusail",6,0
+6/11/2021,European Championship,2020,Matchday 1,Turkey,Italy,0,3,0,3,,,Team B Win,Group A,Rome,3,-3
+6/12/2021,European Championship,2020,Matchday 1,Wales,Switzerland,1,1,1,1,,,Draw,Group A,Baku,2,0
+6/16/2021,European Championship,2020,Matchday 2,Turkey,Wales,0,2,0,2,,,Team B Win,Group A,Baku,2,-2
+6/16/2021,European Championship,2020,Matchday 2,Italy,Switzerland,3,0,3,0,,,Team A Win,Group A,Rome,3,3
+6/20/2021,European Championship,2020,Matchday 3,Switzerland,Turkey,3,1,3,1,,,Team A Win,Group A,Baku,4,2
+6/20/2021,European Championship,2020,Matchday 3,Italy,Wales,1,0,1,0,,,Team A Win,Group A,Rome,1,1
+6/12/2021,European Championship,2020,Matchday 1,Denmark,Finland,0,1,0,1,,,Team B Win,Group B,Copenhagen,1,-1
+6/12/2021,European Championship,2020,Matchday 1,Belgium,Russia,3,0,3,0,,,Team A Win,Group B,Saint Petersburg,3,3
+6/16/2021,European Championship,2020,Matchday 2,Finland,Russia,0,1,0,1,,,Team B Win,Group B,Saint Petersburg,1,-1
+6/17/2021,European Championship,2020,Matchday 2,Denmark,Belgium,1,2,1,2,,,Team B Win,Group B,Copenhagen,3,-1
+6/21/2021,European Championship,2020,Matchday 3,Russia,Denmark,1,4,1,4,,,Team B Win,Group B,Copenhagen,5,-3
+6/21/2021,European Championship,2020,Matchday 3,Finland,Belgium,0,2,0,2,,,Team B Win,Group B,Saint Petersburg,2,-2
+6/13/2021,European Championship,2020,Matchday 1,Austria,North Macedonia,3,1,3,1,,,Team A Win,Group C,Bucharest,4,2
+6/13/2021,European Championship,2020,Matchday 1,Netherlands,Ukraine,3,2,3,2,,,Team A Win,Group C,Amsterdam,5,1
+6/17/2021,European Championship,2020,Matchday 2,Ukraine,North Macedonia,2,1,2,1,,,Team A Win,Group C,Bucharest,3,1
+6/17/2021,European Championship,2020,Matchday 2,Netherlands,Austria,2,0,2,0,,,Team A Win,Group C,Amsterdam,2,2
+6/21/2021,European Championship,2020,Matchday 3,North Macedonia,Netherlands,0,3,0,3,,,Team B Win,Group C,Amsterdam,3,-3
+6/21/2021,European Championship,2020,Matchday 3,Ukraine,Austria,0,1,0,1,,,Team B Win,Group C,Bucharest,1,-1
+6/13/2021,European Championship,2020,Matchday 1,England,Croatia,1,0,1,0,,,Team A Win,Group D,London,1,1
+6/14/2021,European Championship,2020,Matchday 1,Scotland,Czech Republic,0,2,0,2,,,Team B Win,Group D,Glasgow,2,-2
+6/18/2021,European Championship,2020,Matchday 2,Croatia,Czech Republic,1,1,1,1,,,Draw,Group D,Glasgow,2,0
+6/18/2021,European Championship,2020,Matchday 2,England,Scotland,0,0,0,0,,,Draw,Group D,London,0,0
+6/22/2021,European Championship,2020,Matchday 3,Croatia,Scotland,3,1,3,1,,,Team A Win,Group D,Glasgow,4,2
+6/22/2021,European Championship,2020,Matchday 3,Czech Republic,England,0,1,0,1,,,Team B Win,Group D,London,1,-1
+6/14/2021,European Championship,2020,Matchday 1,Poland,Slovakia,1,2,1,2,,,Team B Win,Group E,Saint Petersburg,3,-1
+6/14/2021,European Championship,2020,Matchday 1,Spain,Sweden,0,0,0,0,,,Draw,Group E,Seville,0,0
+6/18/2021,European Championship,2020,Matchday 2,Sweden,Slovakia,1,0,1,0,,,Team A Win,Group E,Saint Petersburg,1,1
+6/19/2021,European Championship,2020,Matchday 2,Spain,Poland,1,1,1,1,,,Draw,Group E,Seville,2,0
+6/23/2021,European Championship,2020,Matchday 3,Slovakia,Spain,0,5,0,5,,,Team B Win,Group E,Seville,5,-5
+6/23/2021,European Championship,2020,Matchday 3,Sweden,Poland,3,2,3,2,,,Team A Win,Group E,Saint Petersburg,5,1
+6/15/2021,European Championship,2020,Matchday 1,Hungary,Portugal,0,3,0,3,,,Team B Win,Group F,Budapest,3,-3
+6/15/2021,European Championship,2020,Matchday 1,France,Germany,1,0,1,0,,,Team A Win,Group F,Munich,1,1
+6/19/2021,European Championship,2020,Matchday 2,Hungary,France,1,1,1,1,,,Draw,Group F,Budapest,2,0
+6/19/2021,European Championship,2020,Matchday 2,Portugal,Germany,2,4,2,4,,,Team B Win,Group F,Munich,6,-2
+6/23/2021,European Championship,2020,Matchday 3,Portugal,France,2,2,2,2,,,Draw,Group F,Budapest,4,0
+6/23/2021,European Championship,2020,Matchday 3,Germany,Hungary,2,2,2,2,,,Draw,Group F,Munich,4,0
+6/26/2021,European Championship,2020,Round of 16,Wales,Denmark,0,4,0,4,,,Team B Win,,Amsterdam,4,-4
+6/26/2021,European Championship,2020,Round of 16,Italy,Austria,2,1,0,0,,,Team A Win,,London,3,1
+6/27/2021,European Championship,2020,Round of 16,Netherlands,Czech Republic,0,2,0,2,,,Team B Win,,Budapest,2,-2
+6/27/2021,European Championship,2020,Round of 16,Belgium,Portugal,1,0,1,0,,,Team A Win,,Seville,1,1
+6/28/2021,European Championship,2020,Round of 16,Croatia,Spain,3,5,3,3,,,Team B Win,,Copenhagen,8,-2
+6/28/2021,European Championship,2020,Round of 16,France,Switzerland,3,3,3,3,4,5,Draw,,Bucharest,6,0
+6/29/2021,European Championship,2020,Round of 16,England,Germany,2,0,2,0,,,Team A Win,,London,2,2
+6/29/2021,European Championship,2020,Round of 16,Sweden,Ukraine,1,2,1,1,,,Team B Win,,Glasgow,3,-1
+7/2/2021,European Championship,2020,Quarter-finals,Switzerland,Spain,1,1,1,1,1,3,Draw,,Saint Petersburg,2,0
+7/2/2021,European Championship,2020,Quarter-finals,Belgium,Italy,1,2,1,2,,,Team B Win,,Munich,3,-1
+7/3/2021,European Championship,2020,Quarter-finals,Czech Republic,Denmark,1,2,1,2,,,Team B Win,,Baku,3,-1
+7/3/2021,European Championship,2020,Quarter-finals,Ukraine,England,0,4,0,4,,,Team B Win,,Rome,4,-4
+7/6/2021,European Championship,2020,Semi-final,Italy,Spain,1,1,1,1,4,2,Draw,,London,2,0
+7/7/2021,European Championship,2020,Semi-final,England,Denmark,2,1,1,1,,,Team A Win,,London,3,1
+7/11/2021,European Championship,2020,Final,Italy,England,1,1,1,1,3,2,Draw,,London,2,0
+6/14/2024,European Championship,2024,Matchday 1,Germany,Scotland,5,1,5,1,,,Team A Win,Group A,München,6,4
+6/15/2024,European Championship,2024,Matchday 1,Hungary,Switzerland,1,3,1,3,,,Team B Win,Group A,Köln,4,-2
+6/19/2024,European Championship,2024,Matchday 2,Germany,Hungary,2,0,2,0,,,Team A Win,Group A,Stuttgart,2,2
+6/19/2024,European Championship,2024,Matchday 2,Scotland,Switzerland,1,1,1,1,,,Draw,Group A,Köln,2,0
+6/23/2024,European Championship,2024,Matchday 3,Switzerland,Germany,1,1,1,1,,,Draw,Group A,Frankfurt,2,0
+6/23/2024,European Championship,2024,Matchday 3,Scotland,Hungary,0,1,0,1,,,Team B Win,Group A,Stuttgart,1,-1
+6/15/2024,European Championship,2024,Matchday 1,Spain,Croatia,3,0,3,0,,,Team A Win,Group B,Berlin,3,3
+6/15/2024,European Championship,2024,Matchday 1,Italy,Albania,2,1,2,1,,,Team A Win,Group B,Dortmund,3,1
+6/19/2024,European Championship,2024,Matchday 2,Croatia,Albania,2,2,2,2,,,Draw,Group B,Hamburg,4,0
+6/20/2024,European Championship,2024,Matchday 2,Spain,Italy,1,0,1,0,,,Team A Win,Group B,Gelsenkirchen,1,1
+6/24/2024,European Championship,2024,Matchday 3,Albania,Spain,0,1,0,1,,,Team B Win,Group B,Düsseldorf,1,-1
+6/24/2024,European Championship,2024,Matchday 3,Croatia,Italy,1,1,1,1,,,Draw,Group B,Leipzig,2,0
+6/16/2024,European Championship,2024,Matchday 1,Slovenia,Denmark,1,1,1,1,,,Draw,Group C,Stuttgart,2,0
+6/16/2024,European Championship,2024,Matchday 1,Serbia,England,0,1,0,1,,,Team B Win,Group C,Gelsenkirchen,1,-1
+6/20/2024,European Championship,2024,Matchday 2,Slovenia,Serbia,1,1,1,1,,,Draw,Group C,München,2,0
+6/20/2024,European Championship,2024,Matchday 2,Denmark,England,1,1,1,1,,,Draw,Group C,Frankfurt,2,0
+6/25/2024,European Championship,2024,Matchday 3,England,Slovenia,0,0,0,0,,,Draw,Group C,Köln,0,0
+6/25/2024,European Championship,2024,Matchday 3,Denmark,Serbia,0,0,0,0,,,Draw,Group C,München,0,0
+6/16/2024,European Championship,2024,Matchday 1,Poland,Netherlands,1,2,1,2,,,Team B Win,Group D,Hamburg,3,-1
+6/17/2024,European Championship,2024,Matchday 1,Austria,France,0,1,0,1,,,Team B Win,Group D,Düsseldorf,1,-1
+6/21/2024,European Championship,2024,Matchday 2,Poland,Austria,1,3,1,3,,,Team B Win,Group D,Berlin,4,-2
+6/21/2024,European Championship,2024,Matchday 2,Netherlands,France,0,0,0,0,,,Draw,Group D,Leipzig,0,0
+6/25/2024,European Championship,2024,Matchday 3,Netherlands,Austria,2,3,2,3,,,Team B Win,Group D,Berlin,5,-1
+6/25/2024,European Championship,2024,Matchday 3,France,Poland,1,1,1,1,,,Draw,Group D,Dortmund,2,0
+6/17/2024,European Championship,2024,Matchday 1,Romania,Ukraine,3,0,3,0,,,Team A Win,Group E,München,3,3
+6/17/2024,European Championship,2024,Matchday 1,Belgium,Slovakia,0,1,0,1,,,Team B Win,Group E,Frankfurt,1,-1
+6/21/2024,European Championship,2024,Matchday 2,Slovakia,Ukraine,1,2,1,2,,,Team B Win,Group E,Düsseldorf,3,-1
+6/22/2024,European Championship,2024,Matchday 2,Belgium,Romania,2,0,2,0,,,Team A Win,Group E,Köln,2,2
+6/26/2024,European Championship,2024,Matchday 3,Slovakia,Romania,1,1,1,1,,,Draw,Group E,Frankfurt,2,0
+6/26/2024,European Championship,2024,Matchday 3,Ukraine,Belgium,0,0,0,0,,,Draw,Group E,Stuttgart,0,0
+6/18/2024,European Championship,2024,Matchday 1,Turkey,Georgia,3,1,3,1,,,Team A Win,Group F,Dortmund,4,2
+6/18/2024,European Championship,2024,Matchday 1,Portugal,Czech Republic,2,1,2,1,,,Team A Win,Group F,Leipzig,3,1
+6/22/2024,European Championship,2024,Matchday 2,Georgia,Czech Republic,1,1,1,1,,,Draw,Group F,Hamburg,2,0
+6/22/2024,European Championship,2024,Matchday 2,Turkey,Portugal,0,3,0,3,,,Team B Win,Group F,Dortmund,3,-3
+6/26/2024,European Championship,2024,Matchday 3,Georgia,Portugal,2,0,2,0,,,Team A Win,Group F,Gelsenkirchen,2,2
+6/26/2024,European Championship,2024,Matchday 3,Czech Republic,Turkey,1,2,1,2,,,Team B Win,Group F,Hamburg,3,-1
+6/29/2024,European Championship,2024,Round of 16,Switzerland,Italy,2,0,2,0,,,Team A Win,,Berlin,2,2
+6/29/2024,European Championship,2024,Round of 16,Germany,Denmark,2,0,2,0,,,Team A Win,,Dortmund,2,2
+6/30/2024,European Championship,2024,Round of 16,England,Slovakia,2,1,2,1,,,Team A Win,,Gelsenkirchen,3,1
+6/30/2024,European Championship,2024,Round of 16,Spain,Georgia,4,1,4,1,,,Team A Win,,Köln,5,3
+7/1/2024,European Championship,2024,Round of 16,France,Belgium,1,0,1,0,,,Team A Win,,Düsseldorf,1,1
+7/1/2024,European Championship,2024,Round of 16,Portugal,Slovenia,0,0,0,0,3,0,Draw,,Frankfurt,0,0
+7/2/2024,European Championship,2024,Round of 16,Romania,Netherlands,0,3,0,3,,,Team B Win,,München,3,-3
+7/2/2024,European Championship,2024,Round of 16,Austria,Turkey,1,2,1,2,,,Team B Win,,Leipzig,3,-1
+7/5/2024,European Championship,2024,Quarter-finals,Spain,Germany,2,1,2,1,,,Team A Win,,Stuttgart,3,1
+7/5/2024,European Championship,2024,Quarter-finals,Portugal,France,0,0,0,0,3,5,Draw,,Hamburg,0,0
+7/6/2024,European Championship,2024,Quarter-finals,England,Switzerland,1,1,1,1,5,3,Draw,,Düsseldorf,2,0
+7/6/2024,European Championship,2024,Quarter-finals,Netherlands,Turkey,2,1,2,1,,,Team A Win,,Berlin,3,1
+7/9/2024,European Championship,2024,Semi-finals,Spain,France,2,1,2,1,,,Team A Win,,München,3,1
+7/10/2024,European Championship,2024,Semi-finals,Netherlands,England,1,2,1,2,,,Team B Win,,Dortmund,3,-1
+7/14/2024,European Championship,2024,Final,Spain,England,2,1,2,1,,,Team A Win,,Berlin,3,1

@@ -1,0 +1,91 @@
+date,tournament,year,team_a,team_b,target,Actual Result,Logistic Regression,Random Forest,Gradient Boosting,XGBoost,Poisson
+2014-06-20,World Cup,2014,Italy,Costa Rica,0,Team B Win,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2010-06-13,World Cup,2010,Germany,Australia,2,Team A Win,Team A Win,Team B Win,Team A Win,Team A Win,Team A Win
+2021-06-28,European Championship,2020,France,Switzerland,1,Draw,Team A Win,Team A Win,Team A Win,Team A Win,Team B Win
+2024-07-01,European Championship,2024,France,Belgium,2,Team A Win,Draw,Team A Win,Draw,Team A Win,Team A Win
+2014-06-24,World Cup,2014,Costa Rica,England,1,Draw,Team B Win,Team A Win,Team A Win,Team A Win,Draw
+2018-06-30,World Cup,2018,France,Argentina,2,Team A Win,Team B Win,Draw,Draw,Draw,Team A Win
+2022-11-29,World Cup,2022,Wales,England,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2014-06-29,World Cup,2014,Costa Rica,Greece,1,Draw,Team B Win,Team A Win,Team A Win,Team A Win,Team B Win
+2018-06-27,World Cup,2018,South Korea,Germany,2,Team A Win,Team B Win,Team B Win,Team A Win,Team B Win,Team A Win
+2024-06-20,European Championship,2024,Slovenia,Serbia,1,Draw,Team B Win,Draw,Draw,Draw,Team B Win
+2022-12-05,World Cup,2022,Japan,Croatia,1,Draw,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-06-16,World Cup,2018,France,Australia,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2018-06-14,World Cup,2018,Russia,Saudi Arabia,2,Team A Win,Team B Win,Team A Win,Team A Win,Team A Win,Team A Win
+2010-06-19,World Cup,2010,Ghana,Australia,1,Draw,Team B Win,Team A Win,Team A Win,Team A Win,Team B Win
+2018-06-26,World Cup,2018,Iceland,Croatia,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2021-06-12,European Championship,2020,Denmark,Finland,0,Team B Win,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-07-02,World Cup,2018,Brazil,Mexico,2,Team A Win,Team A Win,Draw,Draw,Draw,Team A Win
+2024-06-24,European Championship,2024,Croatia,Italy,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-06-30,World Cup,2018,Uruguay,Portugal,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2018-06-21,World Cup,2018,Argentina,Croatia,0,Team B Win,Draw,Team B Win,Team B Win,Team B Win,Team B Win
+2022-11-22,World Cup,2022,France,Australia,2,Team A Win,Draw,Team A Win,Team A Win,Team A Win,Team A Win
+2024-06-23,European Championship,2024,Scotland,Hungary,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-06-20,World Cup,2018,Portugal,Morocco,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2021-06-23,European Championship,2020,Sweden,Poland,2,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win,Team A Win
+2014-06-12,World Cup,2014,Brazil,Croatia,2,Team A Win,Team A Win,Draw,Team A Win,Team A Win,Team A Win
+2014-06-23,World Cup,2014,Netherlands,Chile,2,Team A Win,Draw,Team A Win,Team A Win,Team A Win,Team A Win
+2024-06-17,European Championship,2024,Romania,Ukraine,2,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win,Team A Win
+2024-06-19,European Championship,2024,Germany,Hungary,2,Team A Win,Draw,Draw,Team A Win,Team A Win,Team A Win
+2018-07-06,World Cup,2018,Brazil,Belgium,0,Team B Win,Team B Win,Team B Win,Draw,Team B Win,Team B Win
+2021-06-14,European Championship,2020,Spain,Sweden,1,Draw,Draw,Team A Win,Team A Win,Team A Win,Draw
+2018-07-07,World Cup,2018,Russia,Croatia,1,Draw,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2010-06-13,World Cup,2010,Serbia,Ghana,0,Team B Win,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2014-06-21,World Cup,2014,Argentina,Iran,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2022-12-17,World Cup,2022,Croatia,Morocco,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2014-06-23,World Cup,2014,Croatia,Mexico,0,Team B Win,Team B Win,Team A Win,Team A Win,Team A Win,Team B Win
+2010-07-10,World Cup,2010,Uruguay,Germany,0,Team B Win,Team A Win,Team A Win,Team A Win,Team A Win,Team B Win
+2010-07-03,World Cup,2010,Paraguay,Spain,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2022-12-04,World Cup,2022,France,Poland,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2021-07-02,European Championship,2020,Switzerland,Spain,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2010-06-29,World Cup,2010,Paraguay,Japan,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Draw
+2024-06-14,European Championship,2024,Germany,Scotland,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2010-06-11,World Cup,2010,South Africa,Mexico,1,Draw,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2024-07-10,European Championship,2024,Netherlands,England,0,Team B Win,Team A Win,Team A Win,Draw,Draw,Team B Win
+2024-06-20,European Championship,2024,Spain,Italy,2,Team A Win,Draw,Draw,Draw,Draw,Team A Win
+2018-06-25,World Cup,2018,Saudi Arabia,Egypt,2,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win,Team A Win
+2018-06-25,World Cup,2018,Iran,Portugal,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-06-24,World Cup,2018,Poland,Colombia,0,Team B Win,Team B Win,Team B Win,Draw,Draw,Team B Win
+2021-06-21,European Championship,2020,Russia,Denmark,0,Team B Win,Team B Win,Draw,Team B Win,Draw,Team B Win
+2021-06-27,European Championship,2020,Belgium,Portugal,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2014-06-22,World Cup,2014,Belgium,Russia,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2022-11-30,World Cup,2022,Saudi Arabia,Mexico,0,Team B Win,Team B Win,Team B Win,Team B Win,Draw,Team B Win
+2021-06-15,European Championship,2020,France,Germany,2,Team A Win,Draw,Draw,Draw,Draw,Team A Win
+2022-11-23,World Cup,2022,Spain,Costa Rica,2,Team A Win,Draw,Draw,Team A Win,Draw,Team A Win
+2014-06-18,World Cup,2014,Cameroon,Croatia,0,Team B Win,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win
+2024-06-16,European Championship,2024,Serbia,England,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2022-11-29,World Cup,2022,Iran,USA,0,Team B Win,Team B Win,Draw,Draw,Draw,Team B Win
+2010-06-27,World Cup,2010,Argentina,Mexico,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2021-06-22,European Championship,2020,Czech Republic,England,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2010-06-16,World Cup,2010,South Africa,Uruguay,0,Team B Win,Team A Win,Team A Win,Team A Win,Team A Win,Team B Win
+2021-06-14,European Championship,2020,Scotland,Czech Republic,0,Team B Win,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2024-06-15,European Championship,2024,Italy,Albania,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2022-11-27,World Cup,2022,Spain,Germany,1,Draw,Draw,Draw,Draw,Team A Win,Team B Win
+2018-06-26,World Cup,2018,Denmark,France,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Draw
+2022-12-01,World Cup,2022,Canada,Morocco,0,Team B Win,Team B Win,Team B Win,Draw,Team B Win,Team B Win
+2010-06-24,World Cup,2010,Denmark,Japan,0,Team B Win,Team B Win,Team B Win,Team A Win,Team B Win,Team B Win
+2010-07-06,World Cup,2010,Uruguay,Netherlands,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2018-06-17,World Cup,2018,Germany,Mexico,0,Team B Win,Draw,Team A Win,Team A Win,Team A Win,Team B Win
+2021-06-19,European Championship,2020,Spain,Poland,1,Draw,Draw,Team B Win,Draw,Team B Win,Team B Win
+2021-06-29,European Championship,2020,England,Germany,2,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win,Team A Win
+2022-11-27,World Cup,2022,Belgium,Morocco,0,Team B Win,Team A Win,Team A Win,Team A Win,Team A Win,Team B Win
+2010-06-12,World Cup,2010,South Korea,Greece,2,Team A Win,Team A Win,Team B Win,Team A Win,Team A Win,Team A Win
+2021-06-23,European Championship,2020,Slovakia,Spain,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2022-11-25,World Cup,2022,Qatar,Senegal,0,Team B Win,Team B Win,Team B Win,Draw,Team B Win,Team B Win
+2010-06-14,World Cup,2010,Italy,Paraguay,1,Draw,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2010-06-28,World Cup,2010,Netherlands,Slovakia,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2024-06-17,European Championship,2024,Austria,France,0,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2010-06-12,World Cup,2010,England,USA,1,Draw,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2014-06-24,World Cup,2014,Greece,Côte d'Ivoire,2,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win,Team A Win
+2022-11-23,World Cup,2022,Belgium,Canada,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2021-07-02,European Championship,2020,Belgium,Italy,0,Team B Win,Team A Win,Team A Win,Team A Win,Team A Win,Team B Win
+2010-06-15,World Cup,2010,New Zealand,Slovakia,1,Draw,Team A Win,Team B Win,Team A Win,Team A Win,Team B Win
+2010-06-25,World Cup,2010,Switzerland,Honduras,1,Draw,Team B Win,Draw,Team B Win,Team B Win,Draw
+2022-11-26,World Cup,2022,France,Denmark,2,Team A Win,Draw,Team A Win,Team A Win,Team A Win,Team A Win
+2018-06-23,World Cup,2018,South Korea,Mexico,0,Team B Win,Team B Win,Team B Win,Team A Win,Team B Win,Team B Win
+2022-11-28,World Cup,2022,Cameroon,Serbia,1,Draw,Team B Win,Team B Win,Team B Win,Team B Win,Team B Win
+2022-11-27,World Cup,2022,Japan,Costa Rica,0,Team B Win,Team B Win,Draw,Team A Win,Draw,Team B Win
+2010-06-21,World Cup,2010,Portugal,North Korea,2,Team A Win,Team B Win,Team B Win,Team B Win,Team B Win,Team A Win
+2024-06-21,European Championship,2024,Slovakia,Ukraine,0,Team B Win,Team B Win,Team B Win,Draw,Draw,Team B Win
+2022-11-27,World Cup,2022,Croatia,Canada,2,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win,Team A Win
+2014-06-17,World Cup,2014,Belgium,Algeria,2,Team A Win,Team B Win,Draw,Team A Win,Team A Win,Team A Win
